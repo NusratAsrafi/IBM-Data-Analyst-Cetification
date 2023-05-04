@@ -10,5 +10,9 @@ Cleaning Data
 
 Removing Duplicate or Inaccurate Data and Empty Rows
 To improve quality and Usablilty of the data we need to clean the data.
+To clean data-
+First we do spell checking
+Second is Empty Rows
+
 
   
