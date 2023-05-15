@@ -15,4 +15,24 @@ First we do spell checking
 Second is Empty Rows
 
 
+
+Dealing with inconsistance in data
+-Triming white space
+-fixing date formating error
+-changing the case of text
+
+It is time decide the best method to analysis. To provide meaningful infomation it is important to filtering,sorting,Performing calculate 
+and shape our data.
+How to shape data -Before starting the analysis we should ask few question?
+How big is the dataset?
+What type of filter is required to find the necessary information?
+How should the data be stored?
+What type of calculations are needed?
+In this way,we visualized the final appoarch .Now take first approach
+-Filtering and sorting-by sorting data we are able to organize the data based on condition such as alphabetically and numerically
+Example -for removing duplicate order number in spreedsheet
+Become familiar with all of the tools to analyze the data can seem daunting,but one key benefit of using a spreadsheet is the ability
+to use function.Function in excel are organized by several catergories-Mathematical,Statistical,Logical,Financial,Date and time
+
+
   
