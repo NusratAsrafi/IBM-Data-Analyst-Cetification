@@ -1,1 +1,20 @@
+Changing the case of the text
+fixing the date format
+trimming whitespace of data
 
+
+Changing the case of text-When you receive the data from varying sources, it is quite common to find that your data contains text in mixed 
+cases.
+Upper Case, Lower Case, Proper Case(Captizied first word)
+To convert the case of the text we use functions(UPPER,LOWER,PROPER).'
+For the proper case, =PROPER(Cell reference)
+To chabge the row to proper we use helper rows .Then apply formula.After that we copy and paste value the rows in to main rowa
+For the column samne method is using
+
+Date formatiting
+TO change date formate we need to use open number box and select local time USA.
+
+
+
+Whitespace
+1.Using find and replace feature-First select all the data ans then uses find and replace.
